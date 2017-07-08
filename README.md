@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# e-bay Project
+## e-bay Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for e-bay Project*
 
 
 **Java 8**
